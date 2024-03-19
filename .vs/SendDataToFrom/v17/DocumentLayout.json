@@ -1,21 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\SendDataToForm\\",
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\Lesson 20\\SendDataToForm \u0026 SendDataBackToFromUsingDelgate\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E8A52F29-0656-4EED-912F-652BC9A8E023}|SendDataToFrom.csproj|c:\\users\\admin\\desktop\\senddatatoform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E8A52F29-0656-4EED-912F-652BC9A8E023}|SendDataToFrom.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{E8A52F29-0656-4EED-912F-652BC9A8E023}|SendDataToFrom\u0026Delegate.csproj|c:\\users\\admin\\desktop\\lesson 20\\senddatatoform \u0026 senddatabacktofromusingdelgate\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8A52F29-0656-4EED-912F-652BC9A8E023}|SendDataToFrom\u0026Delegate.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8A52F29-0656-4EED-912F-652BC9A8E023}|SendDataToFrom.csproj|c:\\users\\admin\\desktop\\senddatatoform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E8A52F29-0656-4EED-912F-652BC9A8E023}|SendDataToFrom.csproj|C:\\Users\\admin\\Desktop\\Lesson 20\\SendDataToForm \u0026 SendDataBackToFromUsingDelgate\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8A52F29-0656-4EED-912F-652BC9A8E023}|SendDataToFrom.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8A52F29-0656-4EED-912F-652BC9A8E023}|SendDataToFrom\u0026Delegate.csproj|c:\\users\\admin\\desktop\\senddatatoform\\form3delegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E8A52F29-0656-4EED-912F-652BC9A8E023}|SendDataToFrom\u0026Delegate.csproj|c:\\users\\admin\\desktop\\lesson 20\\senddatatoform \u0026 senddatabacktofromusingdelgate\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E8A52F29-0656-4EED-912F-652BC9A8E023}|SendDataToFrom\u0026Delegate.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8A52F29-0656-4EED-912F-652BC9A8E023}|SendDataToFrom\u0026Delegate.csproj|C:\\Users\\admin\\Desktop\\Lesson 20\\SendDataToForm \u0026 SendDataBackToFromUsingDelgate\\form3delegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8A52F29-0656-4EED-912F-652BC9A8E023}|SendDataToFrom\u0026Delegate.csproj|solutionrelative:form3delegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8A52F29-0656-4EED-912F-652BC9A8E023}|SendDataToFrom\u0026Delegate.csproj|c:\\users\\admin\\desktop\\senddatatoform\\form3delegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{E8A52F29-0656-4EED-912F-652BC9A8E023}|SendDataToFrom\u0026Delegate.csproj|C:\\Users\\admin\\Desktop\\Lesson 20\\SendDataToForm \u0026 SendDataBackToFromUsingDelgate\\form3delegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E8A52F29-0656-4EED-912F-652BC9A8E023}|SendDataToFrom\u0026Delegate.csproj|solutionrelative:form3delegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -29,6 +33,19 @@
           "SelectedChildIndex": 5,
           "Children": [
             {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Lesson 20\\SendDataToForm \u0026 SendDataBackToFromUsingDelgate\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Lesson 20\\SendDataToForm \u0026 SendDataBackToFromUsingDelgate\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADIAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T22:35:41.31Z",
+              "IsPinned": true
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
             },
@@ -38,49 +55,47 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Form3Delegate.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\SendDataToForm\\Form3Delegate.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Lesson 20\\SendDataToForm \u0026 SendDataBackToFromUsingDelgate\\Form3Delegate.cs",
               "RelativeDocumentMoniker": "Form3Delegate.cs",
               "ToolTip": "C:\\Users\\admin\\Desktop\\SendDataToForm\\Form3Delegate.cs [Design]",
-              "RelativeToolTip": "Form3Delegate.cs [Design]",
+              "RelativeToolTip": "..\\..\\SendDataToForm\\Form3Delegate.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T23:08:35.26Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-03-19T23:08:35.26Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Form3Delegate.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\SendDataToForm\\Form3Delegate.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Lesson 20\\SendDataToForm \u0026 SendDataBackToFromUsingDelgate\\Form3Delegate.cs",
               "RelativeDocumentMoniker": "Form3Delegate.cs",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\SendDataToForm\\Form3Delegate.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Lesson 20\\SendDataToForm \u0026 SendDataBackToFromUsingDelgate\\Form3Delegate.cs",
               "RelativeToolTip": "Form3Delegate.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T23:09:12.781Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\SendDataToForm\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\SendDataToForm\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAADIAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T22:35:41.31Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-19T23:09:12.781Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\SendDataToForm\\Form1.cs",
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Lesson 20\\SendDataToForm \u0026 SendDataBackToFromUsingDelgate\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\SendDataToForm\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Lesson 20\\SendDataToForm \u0026 SendDataBackToFromUsingDelgate\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAACsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T23:39:22.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Lesson 20\\SendDataToForm \u0026 SendDataBackToFromUsingDelgate\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Lesson 20\\SendDataToForm \u0026 SendDataBackToFromUsingDelgate\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-19T22:34:12.902Z",
